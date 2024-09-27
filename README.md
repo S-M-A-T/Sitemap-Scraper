@@ -1,8 +1,5 @@
 # Sitemap-Scraper
 This code effectively gathers URLs from a sitemap and formats them into a specified text file structure for easy access and use.
-# Sitemap URL Fetcher
-
-A Python script that fetches URLs from a sitemap XML file and saves them in a formatted text file for easy access.
 
 ## Features
 
